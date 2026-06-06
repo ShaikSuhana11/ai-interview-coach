@@ -1,0 +1,6 @@
+{
+  "name": "AI Interview Coach",
+  "description": "A professional AI-driven mock job interview coach that evaluates behavior, answers, and provides structured coaching feedback in real time.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
